@@ -174,7 +174,7 @@ pip install -r requirements.txt
 ollama pull deepseek-r1:1.5b
 
 # See All Ollama  Model available on your local
-ollama pull deepseek-r1:1.5b
+ollama list
 
 # Run the application
 streamlit run app.py
