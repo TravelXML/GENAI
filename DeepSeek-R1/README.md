@@ -181,5 +181,6 @@ streamlit run app.py
 ```
 
 ---
+Output:
 
-This README file provides a clear and detailed guide for anyone to set up and use your GENAI project. Let me know if you need further assistance! 🚀
+![image](https://github.com/user-attachments/assets/45be5f64-a6b5-4a8e-b491-8194f471a035)
