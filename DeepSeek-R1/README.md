@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## ❓ Need Help?
+## Need Help?
 
 If you encounter any issues or have questions, feel free to open an issue on GitHub or reach out to us.
 
@@ -156,7 +156,7 @@ Enjoy coding with **UltimateSystemDesign (USD)**! [USD](https://ultimatesystemsd
 
 ---
 
-### Example Commands Recap
+### Commands to RUN...
 
 ```bash
 # Clone the repository
@@ -181,6 +181,6 @@ streamlit run app.py
 ```
 
 ---
-Output:
+Display:
 
 ![image](https://github.com/user-attachments/assets/45be5f64-a6b5-4a8e-b491-8194f471a035)
