@@ -30,6 +30,7 @@ Before you begin, ensure you have the following installed on your system:
 ---
 
 ## 🏁 Getting Started
+Check out the [Build DeepSeek-R1 APP Demo Video](https://www.youtube.com/watch?v=4Jf2NPFrs84) for a step-by-step guide!
 
 ### Step 1: Clone the Repository
 
