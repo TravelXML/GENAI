@@ -1,8 +1,3 @@
-# Gen-AI-With-Deep-Seek-R1
-
-Here’s a detailed **README.md** file for your GitHub repository (`GENAI`). It explains the purpose of the project, how to set it up, and how to execute the necessary commands in a way that even a layman can understand.
-
----
 
 # GENAI - DeepSeek Code Companion 🧠
 
